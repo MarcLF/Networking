@@ -1,5 +1,6 @@
 #pragma once
 #include <atomic>
+#define _WIN32_WINNT 0x0A00
 #include <boost/asio.hpp>
 #include <memory>
 #include <thread>
