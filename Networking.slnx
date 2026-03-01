@@ -5,4 +5,5 @@
   </Configurations>
   <Project Path="01_Basic_Sockets/01_Basic_Sockets.vcxproj" Id="8bbd6ea4-d440-4221-9dfe-cea2ba62d9a3" />
   <Project Path="02_BasicSockets_BoostAsio/02_BasicSockets_BoostAsio.vcxproj" Id="b3101647-8199-43d4-ac47-1766fc7cd0e2" />
+  <Project Path="03_Async_Sockets_BoostAsio/03_Async_Sockets_BoostAsio.vcxproj" Id="a3617ccc-c044-489a-84de-e0a3866f4b19" />
 </Solution>

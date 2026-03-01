@@ -109,9 +109,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tcp_server.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="tcp_server.cpp" />
+    <ClCompile Include="tcp_server_test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
