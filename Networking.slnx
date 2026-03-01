@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_Basic_Sockets/01_Basic_Sockets.vcxproj" Id="8bbd6ea4-d440-4221-9dfe-cea2ba62d9a3" />
+  <Project Path="02_BasicSockets_BoostAsio/02_BasicSockets_BoostAsio.vcxproj" Id="b3101647-8199-43d4-ac47-1766fc7cd0e2" />
+</Solution>
